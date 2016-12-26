@@ -1,0 +1,9 @@
+{
+  "name": "noop",
+  "version": "1.0.0",
+  "description": "Provide some noop value.",
+  "main": "index.js",
+  "repository": "git@github.com:afeiship/noop.git",
+  "author": "feizheng <1290657123@qq.com>",
+  "license": "MIT"
+}
