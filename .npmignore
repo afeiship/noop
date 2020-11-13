@@ -7,3 +7,4 @@ static
 yarn.lock
 test
 .editorconfig
+.release-it.json

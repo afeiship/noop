@@ -11,7 +11,6 @@
 npm i @jswork/noop
 ```
 
-
 ## license
 Code released under [the MIT license](https://github.com/afeiship/noop/blob/master/LICENSE.txt).
 
